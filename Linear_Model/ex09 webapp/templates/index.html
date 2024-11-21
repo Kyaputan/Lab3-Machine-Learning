@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>🛸 UFO Appearance Prediction! 👽</title>
+  
+</head>
+<style>
+  body {
+	width: 100%;
+	height: 100%;
+	font-family: 'Helvetica';
+	background: black;
+	color: #fff;
+	text-align: center;
+	letter-spacing: 1.4px;
+	font-size: 30px;
+}
+
+input {
+	min-width: 150px;
+}
+
+.grid {
+	width: 300px;
+	border: 1px solid #2d2d2d;
+	display: grid;
+	justify-content: center;
+	margin: 20px auto;
+}
+
+.box {
+	color: #fff;
+	background: #2d2d2d;
+	padding: 12px;
+	display: inline-block;
+}
+</style>
+<body>
+ <div class="grid">
+
+  <div class="box">
+
+  <p>According to the number of seconds, latitude and longitude, which country is likely to have reported seeing a UFO?</p>
+
+    <form action="{{ url_for('predict')}}"method="post">
+    	<input type="number" name="seconds" placeholder="Seconds" required="required" min="0" max="60" />
+      <input type="text" name="latitude" placeholder="Latitude" required="required" />
+		  <input type="text" name="longitude" placeholder="Longitude" required="required" />
+      <button type="submit" class="btn">Predict country where the UFO is seen</button>
+    </form>
+
+  
+   <p>{{ prediction_text }}</p>
+
+ </div>
+</div>
+
+</body>
+</html>
