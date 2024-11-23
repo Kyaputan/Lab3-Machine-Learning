@@ -1,0 +1,71 @@
+AMARC-SET
+256
+256 3 256
+31 2566
+(
+256 256 %
+Testing) 263.51 263.51 241.33 9.2%
+Calibration) 10.59 10.59 11.30 -6.3%
+IC*) 15.11 15.11 10.58 42.8%
+1 %
+3 3 %
+4 4 5 %
+%
+** GP) 7 %
+%
+(EBIT) 15. 7 15.80 1 %
+2. 2. %
+12.97 - %
+2. - %
+NP) - %
+%GP % % %
+%EBIT 5.37% % %
+%NP 3.28% % %
+*IC = Inspection & Certification
+**
+336611 SSooi iL Ladapdrpaora 1o2 21,2 L2a,d Lparadop Rroaaod R, o a d , T ETELL 0022--551166--2244222 2 C O N CTOANCTTA@CTA@MAAMRACRC.C.COO..TTHH
+Phlabphla, Wang Thonglang, Bangkok 10310 FAX 02-516-6949 WWW.AMARC.CO.TH
+Phlabhla, Wang Thonglang, Bangkok 10310 FAX 02-516-6949 WWW.AMARC.CO.TH
+3 256 (YoY)
+%
+COVID-19
+1. (Testing)
+%
+2. Calibration
+%
+3. Inspection & Certification
+%
+GP) 37.5% % YoY
+IPO
+%
+0.33
+9.64 36%
+336611 SSooi iL Ladapdrpaora 1o2 21,2 L2a,d Lparadop Rroaaod R, o a d , T ETELL 0022--551166--2244222 2 C O N CTOANCTTA@CTA@MAAMRACRC.C.COO..TTHH
+Phlabphla, Wang Thonglang, Bangkok 10310 FAX 02-516-6949 WWW.AMARC.CO.TH
+Phlabhla, Wang Thonglang, Bangkok 10310 FAX 02-516-6949 WWW.AMARC.CO.TH
+3 2566
+(
+256 256 256
+/
+33.02 32.77 47.42 -14.64 -30.9%
+90.00 90.00 180.00 -90.00 -50.0%
+72.14 72.14 63.10 9.04 14.33%
+195.16 194.91 290.52 -95.61 -32.9%
+- 0.58 - 0.58 100.0%
+382.02 382.02 355.29 26.73 7.5%
+11.88 11.88 5.41 6.47 119.8%
+59.61 59.61 48.13 11.48 23.85%
+453.51 454.09 408.83 45.26 11.1%
+648.67 649.00 699.35 -50.35 -7.2%
+65.54 65.50 66.39 -0.89 -1.3%
+68.81 68.81 85.06 -16.25 -19.1%
+134.34 134.31 151.45 -17.14 -11.3%
+514.33 514.69 547.90 -33.21 -6.1%
+648.67 649.00 699.35 -50.35 -7.2%
+31 256 . %
+IPO
+31 256 . %
+( )
+336611 SSooi iL Ladapdrpaora 1o2 21,2 L2a,d Lparadop Rroaaod R, o a d , T ETELL 0022--551166--2244222 2 C O N CTOANCTTA@CTA@MAAMRACRC.C.COO..TTHH
+Phlabphla, Wang Thonglang, Bangkok 10310 FAX 02-516-6949 WWW.AMARC.CO.TH
+Phlabhla, Wang Thonglang, Bangkok 10310 FAX 02-516-6949 WWW.AMARC.CO.TH
