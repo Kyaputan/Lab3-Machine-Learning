@@ -2,3 +2,10 @@
 NLP/ex05 hugging/model_weights.pth
 /Vision/ex01_1000_Pokemon/dataset
 Vision/ex01_1000_Pokemon/best_model.keras
+NLP\ex09 thainnr\eval
+NLP\ex09 thainnr\test
+NLP\ex09 thainnr\train
+/NLP/ex09-Thai-NER/eval
+/NLP/ex09-Thai-NER/test
+/NLP/ex09-Thai-NER/train
+NLP/ex09-Thai-NER/checkpoint.pth
