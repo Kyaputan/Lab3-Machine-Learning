@@ -9,3 +9,11 @@ NLP\ex09 thainnr\train
 /NLP/ex09-Thai-NER/test
 /NLP/ex09-Thai-NER/train
 NLP/ex09-Thai-NER/checkpoint.pth
+Data-Analysis/Text/prachathai-67k.csv
+Linear_Model/ex15_Human-activity/best_cnn_model.weights.h5
+/Linear_Model/ex15_Human-activity/HAR/test
+/Linear_Model/ex15_Human-activity/HAR/train
+Linear_Model/ex15_Human-activity/sample_submission.csv
+Linear_Model/ex15_Human-activity/submission_cnn.csv
+NLP/ex09-Thai-NER/sample_submission.csv
+NLP/ex09-Thai-NER/tag_list.csv
