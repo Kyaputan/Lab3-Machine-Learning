@@ -21,3 +21,5 @@ NLP/ex09-Thai-NER/tag_list.csv
 *.keras
 Vision/ex02_image_caption/captions.txt
 *.pkl
+/Vision/ex03_img_caption_2/Images
+Vision/ex03_img_caption_2/captions.txt
