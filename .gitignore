@@ -17,3 +17,7 @@ Linear_Model/ex15_Human-activity/sample_submission.csv
 Linear_Model/ex15_Human-activity/submission_cnn.csv
 NLP/ex09-Thai-NER/sample_submission.csv
 NLP/ex09-Thai-NER/tag_list.csv
+/Vision/ex02_image_caption/Images
+*.keras
+Vision/ex02_image_caption/captions.txt
+*.pkl
