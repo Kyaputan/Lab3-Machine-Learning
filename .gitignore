@@ -29,3 +29,6 @@ Linear_Model/test/Yolo_ii.csv
 Linear_Model/test/Yolo_aug.csv
 Linear_Model/test/Data_non_yolo.csv
 Linear_Model/test/CNN.csv
+/Vision/ex05_img_search/queries
+/Vision/ex05_img_search/test
+/Vision/ex05_img_search/train
