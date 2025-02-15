@@ -32,3 +32,8 @@ Linear_Model/test/CNN.csv
 /Vision/ex05_img_search/queries
 /Vision/ex05_img_search/test
 /Vision/ex05_img_search/train
+*.csv
+Linear_Model/ex16_Heart_hackton/catboost_info/catboost_training.json
+Linear_Model/ex16_Heart_hackton/catboost_info/learn/events.out.tfevents
+Linear_Model/ex16_Heart_hackton/catboost_info/learn_error.tsv
+Linear_Model/ex16_Heart_hackton/catboost_info/time_left.tsv
