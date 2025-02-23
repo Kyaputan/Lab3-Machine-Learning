@@ -37,3 +37,5 @@ Linear_Model/ex16_Heart_hackton/catboost_info/catboost_training.json
 Linear_Model/ex16_Heart_hackton/catboost_info/learn/events.out.tfevents
 Linear_Model/ex16_Heart_hackton/catboost_info/learn_error.tsv
 Linear_Model/ex16_Heart_hackton/catboost_info/time_left.tsv
+*.h5
+Model_select.ipynb
