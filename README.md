@@ -51,5 +51,5 @@ Welcome to the **Machine Learning with Python** repository! 🎉 This project se
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/machine-learning-python.git
+   git clone https://github.com/Kyaputan/machine-learning-python.git
 
